@@ -1,0 +1,35 @@
+{
+  "name": "react-essentials",
+  "version": "1.0.0",
+  "description": "React Essentials from scratch",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindra-maram/react-essentials-.git"
+  },
+  "keywords": [
+    "react",
+    "basics",
+    "scratch",
+    "essentials"
+  ],
+  "author": "Ravindra Reddy maram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravindra-maram/react-essentials-/issues"
+  },
+  "homepage": "https://github.com/ravindra-maram/react-essentials-#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}

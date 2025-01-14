@@ -1,5 +1,8 @@
 // Manipulate the HTML DOM using Javscript
 
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 // const heading = document.createElement("h1");
 // heading.innerHTML = "Namaste Everyone";
 // const root = document.getElementById("root");
@@ -24,7 +27,7 @@ const heading1 = React.createElement(
   {
     id: "title",
   },
-  "heading1"
+  "heading2"
 );
 
 const container = React.createElement(
